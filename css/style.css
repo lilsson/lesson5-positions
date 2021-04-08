@@ -32,9 +32,10 @@
 	position: absolute;
 	top: 256px;
 	bottom: 187px;
-	left: 530px;
+	left: 510px;
 	color: #fff;
 	font-size: 35px;
+	font-family: 'Playfair Display', serif;
 
 
 }
@@ -46,6 +47,7 @@
 	width: 100%;
 	top: 0;
 	left: 0;
+	z-index: 20;
 }
 .photo2{
 	width: 100%;
@@ -158,8 +160,59 @@
 	height: 35px;
 	font-size: 16px;
 	color: #fff;
-	padding-top: 15px;
+	padding-top: 10px;
 	padding-left: 45px;
 	margin-left: 550px;
 	margin-top: 100px;
+	margin-bottom: 158px;
 }
+.black{
+	width: 100%;
+	margin-bottom: 82px;
+}
+
+/*footer style*/
+.Home{
+	font-family: 'IM Fell Great Primer SC', serif;
+	font-size: 24px;
+	width: 124px;
+	margin-bottom: 10px;
+}
+ .top{
+ 	margin-bottom: 10px;
+ 	color: #7B7B7B;
+ 	font-size: 16px;
+ }
+ .two{
+ 	display: inline-block;
+ 	margin-right: 68px;
+
+ }
+ .three{
+ 	display: inline-block;
+ 	margin-left: 68px;
+ }
+ .Home-2{
+ 	font-family: 'IM Fell Great Primer SC', serif;
+	font-size: 24px;
+	margin-bottom: 10px;
+ 	width: 321px; 
+ 	
+ }
+ .emv{
+ 	display: inline-block;
+
+ }
+ .emvl{
+ 	
+
+ 	height: 54px;
+ 	display: inline-block;
+ }
+ .Home-5{
+    font-family: 'IM Fell Great Primer SC', serif;
+	font-size: 24px;
+	margin-bottom: 72px;
+ 	width: 321px; 
+
+ }
