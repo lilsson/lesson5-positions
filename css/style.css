@@ -1,0 +1,24 @@
+/*index.html*/
+.logo {
+	width: 134px;
+}
+.logo-image{
+	display: inline-block;
+	margin-left: 140px;
+	margin-right: 128px;
+	vertical-align: middle;
+}
+.li1 {
+	display: inline-block;
+	width: 463px;
+	margin-top: 48px;
+	margin-bottom: 51px;
+}
+
+.li2 {
+	display: inline-block;
+	margin-left: 22px;
+}
+.paragrapi{
+	position: absolute;
+}
