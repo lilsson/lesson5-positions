@@ -1,12 +1,15 @@
-/*index.html*/
+/*index.html*/ 
+
 .logo {
 	width: 134px;
+
 }
 .logo-image{
 	display: inline-block;
 	margin-left: 140px;
 	margin-right: 128px;
 	vertical-align: middle;
+
 }
 .li1 {
 	display: inline-block;
@@ -21,4 +24,142 @@
 }
 .paragrapi{
 	position: absolute;
+	top: 226px;
+	left: 500px;
+	color: #fff;
+	}
+.paragrapi2{
+	position: absolute;
+	top: 256px;
+	bottom: 187px;
+	left: 530px;
+	color: #fff;
+	font-size: 35px;
+
+
+}
+ .paragrapi3 {
+ 	color: #FF7A00
+ }
+.header-wraper{
+	position: fixed;
+	width: 100%;
+	top: 0;
+	left: 0;
+}
+.photo2{
+	width: 100%;
+	margin-top: 124px;
+	margin-bottom: 84px;
+	
+	} 
+	.photo-2 {
+	
+	
+	position: relative;
+	}
+	.h3{
+		color: #FF7A00
+
+		
+		
+		
+	}
+	.oring{
+		
+		margin-left: 124px;
+
+	}
+	.work{
+		margin-top: 81px;
+		width: 45%;
+		height: 350px;
+		margin-right: 40px;
+		margin-bottom: 45px;
+		
+	}
+	.work1{
+		margin-top: 81px;
+		width: 45%;
+		height: 350px;
+		margin-bottom: 45px;
+
+
+	}
+	.h2-1{
+		
+		width: 300px;
+		font-family: 'Playfair Display', serif;
+		margin-bottom: 23px;
+	
+
+	}
+	.wonderful-1{
+		
+		width: 400px;
+        color: #7B7B7B;
+	}
+	.read-1{
+
+		color:  #FF7A00;
+		font-size: 14px;
+		font-family: 'IM Fell Great Primer SC', serif;
+		display: inline-block;
+
+
+	}
+
+
+.box-1{
+	margin-top: 20px;
+	width: 47px;
+	height: 4px;
+	background-color: #FF7A00;
+	display: inline-block;
+
+
+}
+.nice{
+	display: inline-block;
+	margin-right: 150px;
+
+}
+.nice-2{
+	display: inline-block;
+}
+.h2-2{
+	width: 300px;
+	font-family: 'Playfair Display', serif;
+	margin-bottom: 23px;
+}
+.wonderful-2{
+	width: 400px;
+    color: #7B7B7B;
+
+
+}
+.read-2{
+	color:  #FF7A00;
+	font-size: 14px;
+	font-family: 'IM Fell Great Primer SC', serif;
+	display: inline-block;
+}
+.box-2{
+	margin-top: 20px;
+	width: 47px;
+	height: 4px;
+	background-color: #FF7A00;
+	display: inline-block;
+}
+
+.MORE{
+	background-color: #FF7A00;
+	width: 190px;
+	height: 35px;
+	font-size: 16px;
+	color: #fff;
+	padding-top: 15px;
+	padding-left: 45px;
+	margin-left: 550px;
+	margin-top: 100px;
 }
